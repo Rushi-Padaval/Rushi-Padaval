@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **React JS,**
 
+- 👯 I’m looking For The **Internship**
+
 - 👨‍💻 All of my projects are available at [https://portfolio-eta-rust-37.vercel.app/](https://portfolio-eta-rust-37.vercel.app/)
 
 - 📫 How to reach me **rushikeshpadaval@outlook.com**
